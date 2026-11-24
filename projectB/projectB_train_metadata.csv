@@ -1,0 +1,430 @@
+sample_id,hiv_status,country,disease_state,active_tb
+B0002,negative,Malawi,active tuberculosis,1
+B0005,negative,South Africa,other disease,0
+B0006,positive,South Africa,other disease,0
+B0007,negative,South Africa,active tuberculosis,1
+B0009,positive,Malawi,active tuberculosis,1
+B0011,positive,South Africa,active tuberculosis,1
+B0012,negative,South Africa,latent TB infection,0
+B0013,positive,South Africa,other disease,0
+B0014,negative,South Africa,active tuberculosis,1
+B0015,positive,South Africa,other disease,0
+B0016,negative,South Africa,active tuberculosis,1
+B0017,positive,Malawi,active tuberculosis,1
+B0018,negative,South Africa,latent TB infection,0
+B0019,negative,South Africa,active tuberculosis,1
+B0020,positive,South Africa,active tuberculosis,1
+B0021,negative,South Africa,latent TB infection,0
+B0022,negative,South Africa,active tuberculosis,1
+B0024,positive,Malawi,latent TB infection,0
+B0025,positive,Malawi,active tuberculosis,1
+B0026,negative,South Africa,other disease,0
+B0027,positive,South Africa,latent TB infection,0
+B0028,positive,Malawi,active tuberculosis,1
+B0029,positive,South Africa,active tuberculosis,1
+B0030,negative,South Africa,other disease,0
+B0031,positive,South Africa,other disease,0
+B0032,negative,Malawi,active tuberculosis,1
+B0033,positive,South Africa,active tuberculosis,1
+B0034,negative,South Africa,other disease,0
+B0035,negative,South Africa,active tuberculosis,1
+B0038,negative,South Africa,latent TB infection,0
+B0039,negative,South Africa,active tuberculosis,1
+B0040,negative,Malawi,latent TB infection,0
+B0043,negative,South Africa,latent TB infection,0
+B0046,negative,South Africa,latent TB infection,0
+B0047,negative,South Africa,other disease,0
+B0048,negative,South Africa,active tuberculosis,1
+B0050,negative,Malawi,active tuberculosis,1
+B0052,positive,South Africa,other disease,0
+B0053,positive,South Africa,latent TB infection,0
+B0054,negative,Malawi,latent TB infection,0
+B0055,negative,Malawi,active tuberculosis,1
+B0056,positive,Malawi,other disease,0
+B0058,negative,Malawi,latent TB infection,0
+B0059,negative,Malawi,active tuberculosis,1
+B0060,negative,South Africa,active tuberculosis,1
+B0061,positive,South Africa,other disease,0
+B0062,negative,South Africa,other disease,0
+B0063,negative,Malawi,active tuberculosis,1
+B0064,negative,Malawi,other disease,0
+B0065,negative,Malawi,other disease,0
+B0066,negative,Malawi,active tuberculosis,1
+B0067,positive,Malawi,active tuberculosis,1
+B0068,negative,Malawi,active tuberculosis,1
+B0069,positive,Malawi,other disease,0
+B0070,positive,South Africa,latent TB infection,0
+B0071,negative,Malawi,other disease,0
+B0072,negative,South Africa,latent TB infection,0
+B0073,positive,South Africa,other disease,0
+B0074,positive,South Africa,latent TB infection,0
+B0075,negative,South Africa,latent TB infection,0
+B0077,negative,Malawi,latent TB infection,0
+B0078,negative,South Africa,latent TB infection,0
+B0079,positive,Malawi,active tuberculosis,1
+B0080,negative,Malawi,active tuberculosis,1
+B0081,negative,South Africa,other disease,0
+B0082,negative,South Africa,other disease,0
+B0083,negative,South Africa,latent TB infection,0
+B0084,negative,Malawi,other disease,0
+B0085,negative,South Africa,active tuberculosis,1
+B0086,positive,South Africa,other disease,0
+B0087,positive,South Africa,other disease,0
+B0088,positive,South Africa,other disease,0
+B0090,negative,South Africa,latent TB infection,0
+B0092,positive,South Africa,other disease,0
+B0093,negative,South Africa,other disease,0
+B0094,negative,South Africa,other disease,0
+B0095,positive,South Africa,other disease,0
+B0097,negative,South Africa,latent TB infection,0
+B0098,negative,Malawi,latent TB infection,0
+B0099,positive,South Africa,other disease,0
+B0100,negative,Malawi,active tuberculosis,1
+B0101,positive,Malawi,active tuberculosis,1
+B0102,negative,South Africa,latent TB infection,0
+B0103,positive,South Africa,latent TB infection,0
+B0104,negative,South Africa,other disease,0
+B0105,negative,Malawi,active tuberculosis,1
+B0107,negative,South Africa,other disease,0
+B0108,negative,South Africa,latent TB infection,0
+B0109,positive,Malawi,active tuberculosis,1
+B0111,positive,South Africa,other disease,0
+B0112,positive,Malawi,active tuberculosis,1
+B0113,negative,Malawi,active tuberculosis,1
+B0114,positive,South Africa,other disease,0
+B0116,positive,Malawi,other disease,0
+B0117,positive,Malawi,other disease,0
+B0118,negative,South Africa,other disease,0
+B0119,positive,South Africa,active tuberculosis,1
+B0120,positive,South Africa,latent TB infection,0
+B0121,positive,South Africa,other disease,0
+B0124,positive,Malawi,active tuberculosis,1
+B0125,positive,Malawi,latent TB infection,0
+B0126,positive,South Africa,active tuberculosis,1
+B0131,negative,Malawi,other disease,0
+B0132,positive,South Africa,other disease,0
+B0133,negative,Malawi,active tuberculosis,1
+B0135,positive,South Africa,active tuberculosis,1
+B0137,positive,Malawi,other disease,0
+B0138,positive,Malawi,other disease,0
+B0139,positive,Malawi,latent TB infection,0
+B0140,negative,South Africa,latent TB infection,0
+B0141,positive,Malawi,latent TB infection,0
+B0144,positive,Malawi,other disease,0
+B0145,negative,Malawi,latent TB infection,0
+B0146,negative,Malawi,latent TB infection,0
+B0147,positive,Malawi,active tuberculosis,1
+B0148,positive,South Africa,active tuberculosis,1
+B0150,positive,South Africa,latent TB infection,0
+B0151,positive,South Africa,latent TB infection,0
+B0152,positive,Malawi,latent TB infection,0
+B0153,negative,South Africa,active tuberculosis,1
+B0154,negative,South Africa,latent TB infection,0
+B0155,positive,South Africa,latent TB infection,0
+B0156,negative,Malawi,latent TB infection,0
+B0157,positive,South Africa,other disease,0
+B0158,positive,Malawi,latent TB infection,0
+B0159,positive,South Africa,other disease,0
+B0160,negative,Malawi,latent TB infection,0
+B0161,positive,South Africa,other disease,0
+B0162,negative,Malawi,latent TB infection,0
+B0163,positive,South Africa,latent TB infection,0
+B0165,negative,Malawi,active tuberculosis,1
+B0166,positive,Malawi,latent TB infection,0
+B0167,positive,South Africa,latent TB infection,0
+B0169,positive,Malawi,other disease,0
+B0170,positive,Malawi,latent TB infection,0
+B0171,negative,South Africa,active tuberculosis,1
+B0172,positive,Malawi,latent TB infection,0
+B0173,negative,Malawi,active tuberculosis,1
+B0174,positive,Malawi,active tuberculosis,1
+B0175,negative,South Africa,latent TB infection,0
+B0177,negative,South Africa,other disease,0
+B0178,positive,South Africa,other disease,0
+B0180,negative,South Africa,latent TB infection,0
+B0181,positive,Malawi,latent TB infection,0
+B0182,positive,Malawi,latent TB infection,0
+B0183,positive,South Africa,other disease,0
+B0184,negative,Malawi,other disease,0
+B0186,negative,Malawi,latent TB infection,0
+B0188,negative,South Africa,other disease,0
+B0189,positive,South Africa,latent TB infection,0
+B0190,positive,Malawi,active tuberculosis,1
+B0191,positive,Malawi,latent TB infection,0
+B0192,positive,Malawi,active tuberculosis,1
+B0193,positive,Malawi,other disease,0
+B0194,negative,South Africa,other disease,0
+B0195,negative,South Africa,latent TB infection,0
+B0198,negative,Malawi,active tuberculosis,1
+B0199,negative,South Africa,other disease,0
+B0200,positive,Malawi,active tuberculosis,1
+B0201,positive,Malawi,active tuberculosis,1
+B0202,positive,Malawi,active tuberculosis,1
+B0204,negative,South Africa,latent TB infection,0
+B0205,negative,Malawi,active tuberculosis,1
+B0206,negative,South Africa,latent TB infection,0
+B0208,positive,South Africa,active tuberculosis,1
+B0209,negative,Malawi,other disease,0
+B0211,positive,South Africa,active tuberculosis,1
+B0213,positive,Malawi,active tuberculosis,1
+B0214,negative,South Africa,active tuberculosis,1
+B0215,negative,Malawi,active tuberculosis,1
+B0217,positive,South Africa,other disease,0
+B0218,negative,South Africa,other disease,0
+B0219,positive,South Africa,active tuberculosis,1
+B0221,positive,Malawi,other disease,0
+B0222,positive,South Africa,active tuberculosis,1
+B0223,negative,South Africa,latent TB infection,0
+B0224,negative,South Africa,active tuberculosis,1
+B0225,positive,South Africa,active tuberculosis,1
+B0226,positive,South Africa,other disease,0
+B0227,positive,Malawi,active tuberculosis,1
+B0228,positive,South Africa,latent TB infection,0
+B0230,negative,South Africa,other disease,0
+B0231,negative,South Africa,active tuberculosis,1
+B0232,positive,Malawi,active tuberculosis,1
+B0233,negative,South Africa,other disease,0
+B0235,positive,South Africa,latent TB infection,0
+B0236,positive,South Africa,latent TB infection,0
+B0237,positive,South Africa,other disease,0
+B0238,negative,South Africa,other disease,0
+B0239,negative,South Africa,other disease,0
+B0240,negative,Malawi,other disease,0
+B0241,positive,Malawi,active tuberculosis,1
+B0242,positive,Malawi,other disease,0
+B0243,positive,Malawi,active tuberculosis,1
+B0244,negative,South Africa,active tuberculosis,1
+B0246,positive,South Africa,latent TB infection,0
+B0247,negative,South Africa,latent TB infection,0
+B0248,positive,South Africa,latent TB infection,0
+B0249,positive,South Africa,latent TB infection,0
+B0250,positive,South Africa,active tuberculosis,1
+B0252,positive,South Africa,latent TB infection,0
+B0254,positive,Malawi,active tuberculosis,1
+B0255,negative,South Africa,active tuberculosis,1
+B0256,positive,South Africa,other disease,0
+B0258,positive,Malawi,latent TB infection,0
+B0259,negative,Malawi,other disease,0
+B0260,negative,Malawi,latent TB infection,0
+B0261,positive,Malawi,active tuberculosis,1
+B0262,positive,South Africa,other disease,0
+B0263,positive,South Africa,active tuberculosis,1
+B0265,negative,Malawi,other disease,0
+B0266,negative,South Africa,other disease,0
+B0267,negative,Malawi,other disease,0
+B0268,negative,Malawi,active tuberculosis,1
+B0269,negative,Malawi,active tuberculosis,1
+B0270,positive,South Africa,active tuberculosis,1
+B0271,positive,Malawi,latent TB infection,0
+B0272,positive,Malawi,latent TB infection,0
+B0273,positive,Malawi,active tuberculosis,1
+B0274,negative,South Africa,active tuberculosis,1
+B0275,positive,Malawi,active tuberculosis,1
+B0277,negative,Malawi,latent TB infection,0
+B0278,positive,South Africa,active tuberculosis,1
+B0279,positive,Malawi,active tuberculosis,1
+B0281,positive,South Africa,active tuberculosis,1
+B0282,positive,South Africa,active tuberculosis,1
+B0283,positive,South Africa,active tuberculosis,1
+B0284,positive,South Africa,other disease,0
+B0285,positive,South Africa,latent TB infection,0
+B0286,positive,South Africa,active tuberculosis,1
+B0287,negative,South Africa,other disease,0
+B0289,negative,South Africa,other disease,0
+B0290,negative,Malawi,other disease,0
+B0291,positive,South Africa,latent TB infection,0
+B0293,positive,South Africa,latent TB infection,0
+B0295,negative,Malawi,active tuberculosis,1
+B0296,positive,South Africa,other disease,0
+B0297,positive,Malawi,latent TB infection,0
+B0298,negative,Malawi,other disease,0
+B0300,negative,South Africa,latent TB infection,0
+B0302,positive,South Africa,latent TB infection,0
+B0303,negative,Malawi,other disease,0
+B0304,negative,Malawi,other disease,0
+B0305,negative,South Africa,active tuberculosis,1
+B0306,negative,South Africa,latent TB infection,0
+B0307,negative,Malawi,other disease,0
+B0308,positive,South Africa,latent TB infection,0
+B0309,positive,Malawi,active tuberculosis,1
+B0310,positive,Malawi,other disease,0
+B0311,positive,Malawi,active tuberculosis,1
+B0312,positive,South Africa,other disease,0
+B0313,negative,Malawi,latent TB infection,0
+B0314,negative,South Africa,active tuberculosis,1
+B0316,negative,South Africa,other disease,0
+B0317,negative,South Africa,active tuberculosis,1
+B0318,negative,Malawi,active tuberculosis,1
+B0319,negative,Malawi,active tuberculosis,1
+B0320,negative,South Africa,other disease,0
+B0321,positive,Malawi,other disease,0
+B0322,positive,South Africa,active tuberculosis,1
+B0325,negative,South Africa,latent TB infection,0
+B0327,positive,South Africa,other disease,0
+B0329,positive,South Africa,other disease,0
+B0330,negative,South Africa,other disease,0
+B0331,negative,South Africa,latent TB infection,0
+B0332,negative,Malawi,latent TB infection,0
+B0334,positive,Malawi,active tuberculosis,1
+B0336,negative,Malawi,other disease,0
+B0337,positive,Malawi,latent TB infection,0
+B0338,positive,South Africa,other disease,0
+B0339,positive,South Africa,active tuberculosis,1
+B0340,positive,South Africa,latent TB infection,0
+B0341,positive,Malawi,active tuberculosis,1
+B0342,positive,South Africa,active tuberculosis,1
+B0343,positive,South Africa,active tuberculosis,1
+B0344,negative,Malawi,active tuberculosis,1
+B0345,negative,South Africa,other disease,0
+B0347,positive,South Africa,active tuberculosis,1
+B0348,positive,South Africa,latent TB infection,0
+B0349,negative,South Africa,active tuberculosis,1
+B0350,negative,Malawi,other disease,0
+B0351,positive,Malawi,other disease,0
+B0352,positive,Malawi,latent TB infection,0
+B0353,positive,South Africa,active tuberculosis,1
+B0354,positive,Malawi,active tuberculosis,1
+B0355,negative,South Africa,active tuberculosis,1
+B0356,negative,Malawi,latent TB infection,0
+B0357,positive,Malawi,active tuberculosis,1
+B0358,negative,South Africa,active tuberculosis,1
+B0359,negative,Malawi,latent TB infection,0
+B0360,negative,Malawi,other disease,0
+B0361,negative,South Africa,active tuberculosis,1
+B0362,negative,Malawi,active tuberculosis,1
+B0363,negative,Malawi,active tuberculosis,1
+B0365,positive,South Africa,active tuberculosis,1
+B0366,positive,South Africa,active tuberculosis,1
+B0368,positive,Malawi,other disease,0
+B0369,positive,South Africa,other disease,0
+B0370,positive,Malawi,other disease,0
+B0371,negative,South Africa,latent TB infection,0
+B0372,positive,South Africa,active tuberculosis,1
+B0374,positive,South Africa,latent TB infection,0
+B0376,positive,South Africa,active tuberculosis,1
+B0378,negative,Malawi,other disease,0
+B0379,positive,South Africa,other disease,0
+B0380,negative,Malawi,active tuberculosis,1
+B0381,negative,Malawi,other disease,0
+B0382,negative,Malawi,active tuberculosis,1
+B0383,negative,South Africa,other disease,0
+B0384,positive,South Africa,latent TB infection,0
+B0386,negative,Malawi,latent TB infection,0
+B0387,negative,Malawi,latent TB infection,0
+B0388,negative,South Africa,latent TB infection,0
+B0389,positive,South Africa,other disease,0
+B0390,negative,Malawi,latent TB infection,0
+B0392,positive,Malawi,latent TB infection,0
+B0393,positive,Malawi,active tuberculosis,1
+B0394,negative,South Africa,other disease,0
+B0395,negative,South Africa,other disease,0
+B0396,negative,South Africa,latent TB infection,0
+B0398,positive,South Africa,other disease,0
+B0399,positive,South Africa,latent TB infection,0
+B0400,negative,Malawi,active tuberculosis,1
+B0401,positive,South Africa,latent TB infection,0
+B0402,negative,South Africa,latent TB infection,0
+B0404,negative,South Africa,active tuberculosis,1
+B0405,positive,South Africa,latent TB infection,0
+B0406,negative,South Africa,latent TB infection,0
+B0408,positive,South Africa,active tuberculosis,1
+B0409,positive,South Africa,other disease,0
+B0410,negative,South Africa,other disease,0
+B0411,positive,Malawi,latent TB infection,0
+B0412,positive,South Africa,active tuberculosis,1
+B0413,negative,South Africa,active tuberculosis,1
+B0414,negative,Malawi,active tuberculosis,1
+B0416,negative,South Africa,active tuberculosis,1
+B0417,negative,Malawi,active tuberculosis,1
+B0418,positive,South Africa,other disease,0
+B0419,negative,Malawi,active tuberculosis,1
+B0420,positive,Malawi,active tuberculosis,1
+B0421,negative,Malawi,active tuberculosis,1
+B0422,positive,Malawi,other disease,0
+B0423,negative,South Africa,active tuberculosis,1
+B0424,negative,South Africa,other disease,0
+B0425,negative,South Africa,active tuberculosis,1
+B0426,positive,South Africa,latent TB infection,0
+B0429,negative,South Africa,active tuberculosis,1
+B0430,positive,Malawi,other disease,0
+B0431,positive,South Africa,active tuberculosis,1
+B0432,positive,South Africa,latent TB infection,0
+B0434,negative,Malawi,latent TB infection,0
+B0436,negative,South Africa,other disease,0
+B0437,negative,Malawi,other disease,0
+B0438,negative,Malawi,other disease,0
+B0439,positive,South Africa,active tuberculosis,1
+B0440,negative,Malawi,other disease,0
+B0441,positive,South Africa,other disease,0
+B0442,negative,South Africa,latent TB infection,0
+B0444,positive,Malawi,latent TB infection,0
+B0445,negative,South Africa,active tuberculosis,1
+B0446,negative,Malawi,active tuberculosis,1
+B0447,negative,South Africa,active tuberculosis,1
+B0448,positive,Malawi,other disease,0
+B0449,negative,Malawi,active tuberculosis,1
+B0450,positive,Malawi,other disease,0
+B0451,positive,South Africa,active tuberculosis,1
+B0452,positive,South Africa,other disease,0
+B0453,positive,Malawi,active tuberculosis,1
+B0454,positive,Malawi,other disease,0
+B0455,positive,Malawi,other disease,0
+B0458,negative,Malawi,other disease,0
+B0460,negative,South Africa,other disease,0
+B0461,negative,Malawi,active tuberculosis,1
+B0462,positive,Malawi,active tuberculosis,1
+B0464,negative,Malawi,latent TB infection,0
+B0465,negative,Malawi,other disease,0
+B0467,negative,Malawi,latent TB infection,0
+B0471,positive,Malawi,latent TB infection,0
+B0472,positive,South Africa,other disease,0
+B0473,positive,South Africa,other disease,0
+B0475,negative,Malawi,latent TB infection,0
+B0476,negative,Malawi,active tuberculosis,1
+B0478,positive,South Africa,latent TB infection,0
+B0479,positive,South Africa,latent TB infection,0
+B0480,negative,South Africa,other disease,0
+B0481,negative,South Africa,latent TB infection,0
+B0482,negative,South Africa,other disease,0
+B0483,positive,Malawi,other disease,0
+B0484,positive,South Africa,other disease,0
+B0485,negative,Malawi,active tuberculosis,1
+B0486,negative,South Africa,active tuberculosis,1
+B0488,positive,Malawi,latent TB infection,0
+B0490,negative,South Africa,active tuberculosis,1
+B0491,negative,South Africa,latent TB infection,0
+B0493,negative,Malawi,latent TB infection,0
+B0494,positive,South Africa,latent TB infection,0
+B0495,positive,South Africa,active tuberculosis,1
+B0496,negative,South Africa,active tuberculosis,1
+B0497,negative,Malawi,latent TB infection,0
+B0498,positive,Malawi,latent TB infection,0
+B0499,negative,South Africa,latent TB infection,0
+B0500,positive,Malawi,other disease,0
+B0501,positive,Malawi,active tuberculosis,1
+B0502,positive,Malawi,latent TB infection,0
+B0503,negative,Malawi,other disease,0
+B0504,positive,Malawi,latent TB infection,0
+B0505,negative,South Africa,active tuberculosis,1
+B0508,positive,Malawi,active tuberculosis,1
+B0509,positive,South Africa,latent TB infection,0
+B0510,negative,Malawi,active tuberculosis,1
+B0512,negative,South Africa,latent TB infection,0
+B0513,negative,South Africa,latent TB infection,0
+B0515,positive,Malawi,latent TB infection,0
+B0516,negative,Malawi,active tuberculosis,1
+B0518,positive,Malawi,active tuberculosis,1
+B0519,positive,South Africa,latent TB infection,0
+B0520,positive,South Africa,other disease,0
+B0522,positive,South Africa,other disease,0
+B0523,negative,South Africa,other disease,0
+B0524,positive,Malawi,active tuberculosis,1
+B0525,positive,Malawi,latent TB infection,0
+B0526,positive,South Africa,other disease,0
+B0528,positive,South Africa,other disease,0
+B0529,positive,South Africa,other disease,0
+B0531,negative,Malawi,latent TB infection,0
+B0533,positive,South Africa,active tuberculosis,1
+B0534,negative,Malawi,latent TB infection,0
+B0535,positive,Malawi,latent TB infection,0
+B0537,negative,Malawi,active tuberculosis,1
